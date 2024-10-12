@@ -3,7 +3,6 @@
 
 [RT-DETR(v2 ※PyTorch版)](https://github.com/lyuwenyu/RT-DETR/tree/main/rtdetrv2_pytorch)をGoogle Colaboratory上で訓練しONNXのファイルをエクスポートするサンプルです。<br>
 データセットは[Kazuhito00/YOLOX-Colaboratory-Training-Sample](https://github.com/Kazuhito00/YOLOX-Colaboratory-Training-Sample)のものを使用しています。
-```
 
 # Usage
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/RT-DETR-Colaboratory-Training-Sample
