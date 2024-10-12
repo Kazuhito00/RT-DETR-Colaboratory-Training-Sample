@@ -5,8 +5,7 @@
 データセットは[Kazuhito00/YOLOX-Colaboratory-Training-Sample](https://github.com/Kazuhito00/YOLOX-Colaboratory-Training-Sample)のものを使用しています。
 
 # Usage
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/RT-DETR-Colaboratory-Training-Sample
-/blob/main/RT-DETR(v2)-Colaboratory-Training-Sample.ipynb)<br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/RT-DETR-Colaboratory-Training-Sample/blob/main/RT-DETR(v2)-Colaboratory-Training-Sample.ipynb)<br>
 トレーニングはGoogle Colaboratory上で実施します。<br>
 [Open In Colab]リンクからノートブックを開き、順に実行してください。
 
