@@ -1,7 +1,7 @@
 # RT-DETR-Colaboratory-Training-Sample
 <img src="https://github.com/user-attachments/assets/469e4b9e-484a-4da8-9a95-b874a8fe38ae" width="60%"><br>
 
-[lyuwenyu/RT-DETR(v2 ※PyTorch版)](https://github.com/lyuwenyu/RT-DETR/tree/main/rtdetrv2_pytorch)をGoogle Colaboratory上で訓練しONNXのファイルをエクスポートするサンプルです。<br>
+[RT-DETR(v2 ※PyTorch版)](https://github.com/lyuwenyu/RT-DETR/tree/main/rtdetrv2_pytorch)をGoogle Colaboratory上で訓練しONNXのファイルをエクスポートするサンプルです。<br>
 データセットは[Kazuhito00/YOLOX-Colaboratory-Training-Sample](https://github.com/Kazuhito00/YOLOX-Colaboratory-Training-Sample)のものを使用しています。
 ```
 
